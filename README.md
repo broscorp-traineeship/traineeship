@@ -28,6 +28,7 @@ __Ми не кажемо, що зроблено погано, а говорим�
   	Налаштування для середовища розробки ( https://github.com/google/styleguide ):
       *	IntelliJ IDEA https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml  як імпортувати: https://www.jetbrains.com/help/idea/copying-code-style-settings.html    
       *	Eclipse https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml
+      *	Visual Studio Code https://code.visualstudio.com/docs/java/java-linting
 4.	Усі проєкти збираються за допомогою Maven.
 5.	Файли середовища розробки та інші тимчасові файли не повинні потрапляти в репозиторій ( https://github.com/github/gitignore ).
 6.	Покриття коду __Unit tests__ (_Junit5_):
