@@ -56,7 +56,4 @@ __Ми не кажемо, що зроблено погано, а говорим�
 
 # Завдання
 Завдання виконуються в такій послідовності:
-1. [Intro](https://classroom.github.com/a/6yWLX1MH )
-1. [Generics](https://classroom.github.com/a/aVxk06Rt)
-1. [Game of Life](https://classroom.github.com/a/ifbYJ7o_)
-1. [GC](https://classroom.github.com/a/WAAAastz)
+1. [GC](https://classroom.github.com/assignment-invitations/5c3449d260eddd1b807763b1fc916c80)
